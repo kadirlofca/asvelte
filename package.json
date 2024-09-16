@@ -1,0 +1,10 @@
+{
+  "name": "asvelte",
+  "version": "1.0.0",
+  "description": "pnpm monorepo template with Astro, Svelte, Tailwind. All TypeScript.",
+  "scripts": {
+  },
+  "keywords": ["Astro", "Svelte", "Tailwind", "TypeScript"],
+  "author": "Kadir Lofca",
+  "license": "Apache-2.0"
+}
