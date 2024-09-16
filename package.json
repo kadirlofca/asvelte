@@ -1,8 +1,10 @@
 {
   "name": "asvelte",
   "version": "1.0.0",
-  "description": "pnpm monorepo template with Astro, Svelte, Tailwind. All TypeScript.",
+  "description": "Astro, Svelte, Tailwind, TypeScript monorepo template for mostly static websites with subdomains.",
   "scripts": {
+    "stack": "pnpm --filter @asvelte/stack",
+    "www": "pnpm --filter @asvelte/www"
   },
   "keywords": ["Astro", "Svelte", "Tailwind", "TypeScript"],
   "author": "Kadir Lofca",
